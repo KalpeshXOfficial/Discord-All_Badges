@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/KalpeshXOfficial/Discord-Online-Forever">
+  <a href="https://github.com/KalpeshXOfficial/Discord-All_Badges">
     <img src="images/profile.png" alt="Discord Online Forever">
   </a>
 
@@ -15,29 +15,29 @@
   <p align="center">
     Keep Your Discord Account Online 24/7 Forever!
     <br />
-    <a href="https://github.com/KalpeshXOfficial/Discord-Online-Forever"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/KalpeshXOfficial/Discord-All_Badges"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/KalpeshXOfficial/Discord-Online-Forever">View Demo</a>
+    <a href="https://github.com/KalpeshXOfficial/Discord-All_Badges/blob/main/CompleteDiscordQuest.md">View Demo</a>
     ·
-    <a href="https://github.com/KalpeshXOfficial/Discord-Online-Forever/issues/new?labels=bug&template=Bug report 🐞">Report Bug</a>
+    <a href="https://github.com/KalpeshXOfficial/Discord-All_Badges/issues/new?labels=bug&template=Bug report 🐞">Report Bug</a>
     ·
-    <a href="https://github.com/KalpeshXOfficial/Discord-Online-Forever/issues/new?labels=enhancement&template=Feature request 🚀">Request Feature</a>
+    <a href="https://github.com/KalpeshXOfficial/Discord-All_Badges/issues/new?labels=enhancement&template=Feature request 🚀">Request Feature</a>
   </p>
 </div>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/KalpeshXOfficial/Discord-Online-Forever.svg?style=for-the-badge
-[contributors-url]: https://github.com/KalpeshXOfficial/Discord-Online-Forever/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/KalpeshXOfficial/Discord-Online-Forever.svg?style=for-the-badge
-[forks-url]: https://github.com/KalpeshXOfficial/Discord-Online-Forever/network/members
-[stars-shield]: https://img.shields.io/github/stars/KalpeshXOfficial/Discord-Online-Forever.svg?style=for-the-badge
-[stars-url]: https://github.com/KalpeshXOfficial/Discord-Online-Forever/stargazers
-[issues-shield]: https://img.shields.io/github/issues/KalpeshXOfficial/Discord-Online-Forever.svg?style=for-the-badge
-[issues-url]: https://github.com/KalpeshXOfficial/Discord-Online-Forever/issues
-[license-shield]: https://img.shields.io/github/license/KalpeshXOfficial/Discord-Online-Forever.svg?style=for-the-badge
-[license-url]: https://github.com/KalpeshXOfficial/Discord-Online-Forever/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/KalpeshXOfficial/Discord-All_Badges.svg?style=for-the-badge
+[contributors-url]: https://github.com/KalpeshXOfficial/Discord-All_Badges/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/KalpeshXOfficial/Discord-All_Badges.svg?style=for-the-badge
+[forks-url]: https://github.com/KalpeshXOfficial/Discord-All_Badges/network/members
+[stars-shield]: https://img.shields.io/github/stars/KalpeshXOfficial/Discord-All_Badges.svg?style=for-the-badge
+[stars-url]: https://github.com/KalpeshXOfficial/Discord-All_Badges/stargazers
+[issues-shield]: https://img.shields.io/github/issues/KalpeshXOfficial/Discord-All_Badges.svg?style=for-the-badge
+[issues-url]: https://github.com/KalpeshXOfficial/Discord-All_Badges/issues
+[license-shield]: https://img.shields.io/github/license/KalpeshXOfficial/Discord-All_Badges.svg?style=for-the-badge
+[license-url]: https://github.com/KalpeshXOfficial/Discord-All_Badges/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
